@@ -7,5 +7,5 @@ import { Component } from '@angular/core';
 })
 
 export class AppComponent {
-  pageTitle = 'peenal Product Management';
+  pageTitle = 'peenalstore Product Management';
 }
